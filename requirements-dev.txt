@@ -7,7 +7,6 @@ pandoc
 pytest
 pytest-cov ~=2.6.0
 pytest-split
-pytest-durations
 flake8
 flake8-bandit
 flake8-docstrings
